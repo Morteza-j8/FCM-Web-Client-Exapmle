@@ -5,7 +5,7 @@
 Change the variable on File<b>`script.js`</b> 
  by your <b>Massaging Sender Id</b>.
  
- variable should be accessible via<a href="https://console.firebase.google.com/">Firebase Console</a>
+ variable should be accessible via <a href="https://console.firebase.google.com/">Firebase Console</a>
  
  
  ```javascript
