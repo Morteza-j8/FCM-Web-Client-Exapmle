@@ -1,9 +1,4 @@
-#Example Of Firebase Cloud Messaging - Web Client (JS)
-
-</br></br></br></br>
-
-
-
+# Example Of Firebase Cloud Messaging - Web Client (JS)
 
 ---
 
